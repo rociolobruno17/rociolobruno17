@@ -3,7 +3,6 @@
 🌱 I’m currently learning JavaScript, React, and advanced frontend techniques.
 💞️ I’m looking to collaborate on projects related to web development and product design.
 📫 How to reach me: LinkedIn | rociolobruno1@gmail.com
-😄 Pronouns: She/Her
 ⚡ Fun fact: I’m a visual designer with a passion for coding and a love for creating intuitive user interfaces!
 
 
